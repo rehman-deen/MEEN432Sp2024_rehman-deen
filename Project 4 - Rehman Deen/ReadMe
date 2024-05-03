@@ -1,1 +1,4 @@
-
+Instructions:
+1) Open all files, including Simulink. Tried to make it so no files had to be open except FinalRace, but could not figure it out. However, no need to run any files.
+2) Run "FinalRace.m"
+3) Look at race, should be around 19 laps.
